@@ -47,6 +47,12 @@
 
 * 技能条：$121-132$
 
+### 装备栏插槽ID
+
+![](https://raw.githubusercontent.com/WanLiQiaoXi/Assets/main/Vanilla-Wow-Macro-v1.12/UI-Character-CharacterTab.png)
+
+
+
 ## 通用
 
 ### 打印技能书
